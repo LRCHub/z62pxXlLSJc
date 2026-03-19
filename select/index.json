@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "There will be love there －愛のある場所－",
+  "base_artist": "the brilliant green",
+  "createdAt": "2026-03-19T08:51:12.830073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There will be love there -愛のある場所- (There will be love there~爱存在的地方~)",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/01_There_will_be_love_there_-愛のある場所-_(There_will_be_love_there~爱存在的地方~)_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There will be love there －愛のある場所－ - There Will Be Love There",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/02_There_will_be_love_there_-愛のある場所-_-_There_Will_Be_Love_There_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There will be love there ～愛のある場所～",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/03_There_will_be_love_there_~愛のある場所~_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There will be love there～愛のある場所～",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/04_There_will_be_love_there~愛のある場所~_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "there will be love there --",
+      "artist": "msooja",
+      "has_synced": false,
+      "path": "select/05_there_will_be_love_there_--_msooja.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "There will be love there -愛のある場所-",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/06_There_will_be_love_there_-愛のある場所-_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "There Will Be Love There",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/07_There_Will_Be_Love_There_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There will be love there -愛のある場所-",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/08_There_will_be_love_there_-愛のある場所-_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There will be love there",
+      "artist": "FEMM",
+      "has_synced": false,
+      "path": "select/09_There_will_be_love_there_FEMM.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There Will Be Love There Ai No Aru Basyo",
+      "artist": "Juju",
+      "has_synced": true,
+      "path": "select/10_There_Will_Be_Love_There_Ai_No_Aru_Basyo_Juju.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There will be love there -ainoarubasho",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/11_There_will_be_love_there_-ainoarubasho_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There will be love there –愛のある場所–",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/12_There_will_be_love_there_–愛のある場所–_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "There will be love there –愛のある場所–",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/13_There_will_be_love_there_–愛のある場所–_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "There will be love there〜愛のある場所〜",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/14_There_will_be_love_there〜愛のある場所〜_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "There will be love there -愛のある場所-",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/15_There_will_be_love_there_-愛のある場所-_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "There will be love there ～愛のある場所～",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/16_There_will_be_love_there_~愛のある場所~_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "There will be love there -愛のある場所-",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/17_There_will_be_love_there_-愛のある場所-_the_brilliant_green.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "There will be love there～愛のある場所～",
+      "artist": "the brilliant green",
+      "has_synced": false,
+      "path": "select/pl_01_There_will_be_love_there~愛のある場所~_the_brilliant_green.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "There will be love there －愛のある場所－",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/localdb_01_There_will_be_love_there_-愛のある場所-_the_brilliant_green.lrc",
+      "repo_name": "gI0Fc4L_-QY"
+    }
+  ]
+}
